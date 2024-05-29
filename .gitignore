@@ -1,0 +1,14 @@
+# Ignore virtual environment files
+venv/
+env/
+*.venv/
+
+# Ignore Python FastAPI related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+*.egg-info/
+dist/
+build/
