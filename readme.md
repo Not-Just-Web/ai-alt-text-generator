@@ -1,4 +1,4 @@
-# Alt Text Generator
+# Alt Text Generator API 
 
 This is a fast API project that generates image alt text using the Gpt4 Vision API or the Replicate AI API. It provides an easy way to automatically generate descriptive text for images, improving accessibility and SEO.
 
